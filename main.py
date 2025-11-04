@@ -6,7 +6,7 @@ for numero in range (11):
     elif numero % 3 == 0:
         print("Fizz")
     elif numero % 5 == 0:
-        print("Buzzi")
+        print("Buzz")
     else:
-        print("sin resultado", numero)
+        print("sin resultado fizbuz", numero)
     
